@@ -122,13 +122,6 @@ A handful of projects that show how I think about systems — research-to-produc
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
-### GitHub at a glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-720&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-720&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" height="160" />
-</p>
-
 ---
 
 <p align="center">
